@@ -1,4 +1,0 @@
-*.cs linguist-language=C#
-*.html linguist-vendored
-docs/**/*.html linguist-vendored
-public/**/*.html linguist-vendored

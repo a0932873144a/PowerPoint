@@ -1,4 +1,2 @@
 *.cs linguist-language=C#
-*.html linguist-vendored=true
-PowerPoint/**/*.html linguist-vendored
-PowerPointTests/**/*.html linguist-vendored
+*.html linguist-vendored

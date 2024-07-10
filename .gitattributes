@@ -1,0 +1,3 @@
+*.cs linguist-language=C#
+docs/**/*.html linguist-vendored
+public/**/*.html linguist-vendored

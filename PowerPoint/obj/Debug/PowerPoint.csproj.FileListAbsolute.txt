@@ -1,0 +1,10 @@
+C:\Users\tamam\OneDrive\桌面\翁廷豪的程式作業\HW#3\PowerPoint\PowerPoint\bin\Debug\PowerPoint.exe.config
+C:\Users\tamam\OneDrive\桌面\翁廷豪的程式作業\HW#3\PowerPoint\PowerPoint\bin\Debug\PowerPoint.exe
+C:\Users\tamam\OneDrive\桌面\翁廷豪的程式作業\HW#3\PowerPoint\PowerPoint\bin\Debug\PowerPoint.pdb
+C:\Users\tamam\OneDrive\桌面\翁廷豪的程式作業\HW#3\PowerPoint\PowerPoint\obj\Debug\PowerPoint.csproj.AssemblyReference.cache
+C:\Users\tamam\OneDrive\桌面\翁廷豪的程式作業\HW#3\PowerPoint\PowerPoint\obj\Debug\PowerPoint.Form1.resources
+C:\Users\tamam\OneDrive\桌面\翁廷豪的程式作業\HW#3\PowerPoint\PowerPoint\obj\Debug\PowerPoint.Properties.Resources.resources
+C:\Users\tamam\OneDrive\桌面\翁廷豪的程式作業\HW#3\PowerPoint\PowerPoint\obj\Debug\PowerPoint.csproj.GenerateResource.cache
+C:\Users\tamam\OneDrive\桌面\翁廷豪的程式作業\HW#3\PowerPoint\PowerPoint\obj\Debug\PowerPoint.csproj.CoreCompileInputs.cache
+C:\Users\tamam\OneDrive\桌面\翁廷豪的程式作業\HW#3\PowerPoint\PowerPoint\obj\Debug\PowerPoint.exe
+C:\Users\tamam\OneDrive\桌面\翁廷豪的程式作業\HW#3\PowerPoint\PowerPoint\obj\Debug\PowerPoint.pdb
